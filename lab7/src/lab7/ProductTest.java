@@ -6,5 +6,22 @@ public class ProductTest {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void testProduct (Product product){
+		
+	}
+	
+	public void testDataStorage(DataStorage dataStorage){
+		
+	}
+	
+	public void testNetworked(Networked networked){
+		
+	}
+	
+	public void testCooker(Cooker cooker){
+		
+	}
+	
 
 }
