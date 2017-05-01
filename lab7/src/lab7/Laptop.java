@@ -10,7 +10,7 @@ public class Laptop extends Product implements Networked, DataStorage {
 	@Override
 	public double getFreeCapacity() {
 		// TODO Auto-generated method stub
-		return 0;
+		return 200;
 	}
 
 	@Override

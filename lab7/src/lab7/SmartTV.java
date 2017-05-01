@@ -12,7 +12,7 @@ public class SmartTV extends Product implements Networked {
 	
 	public double maxSpeed()
 	{
-		return channel;
+		return 300;
 		
 	}
 	
