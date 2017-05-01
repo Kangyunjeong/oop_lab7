@@ -7,3 +7,4 @@ public interface DataStorage {
 	public void format();
 
 }
+ 
