@@ -10,5 +10,5 @@ public class Toaster extends Product implements Cooker  {
 	public String getName() {
 		return "Food's Name";
 	}
-
+ 
 }
