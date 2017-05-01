@@ -1,9 +1,9 @@
 package lab7;
 
-public class SmartTV extends Product {
+public class SmartTV extends Product implements Networked {
 	
 	private int channel;
-
+	
 	public boolean isConnected()
 	{
 		return false;
@@ -28,7 +28,7 @@ public class SmartTV extends Product {
 
 	@Override
 	public String getName() {
-		// TODO Auto-generated method stub
+		
 		return null;
 	}
 
