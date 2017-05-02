@@ -12,3 +12,4 @@ public class Toaster extends Product implements Cooker  {
 	}
  
 }
+ 
